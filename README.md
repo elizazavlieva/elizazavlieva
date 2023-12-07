@@ -1,4 +1,3 @@
-<h2 align="left">Hi 👋! My name is Elizabeth Zavlieva and I'm a software  engineering student from Rousse, Bulgaria.</h2>
 
 ###
 
